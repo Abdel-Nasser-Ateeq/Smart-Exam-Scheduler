@@ -1,6 +1,7 @@
 # Smart-Exam-Scheduler
 Smart-Exam-Scheduler
-This project builds a Smart-Exam-Scheduler based on a specific conditions.
+
+This project builds a Smart-Exam-Scheduler based on backtracking algorithm under specific conditions.
 As an input we have:
 1. Time_slots = {t1,t2,t3,t4}
 2. Available_halls = {A,B,C}
@@ -17,4 +18,3 @@ As an input we have:
 
                  5. There are no two exams occur at the same place and time.
 
-This project is solved by using backtracking algorithm.
