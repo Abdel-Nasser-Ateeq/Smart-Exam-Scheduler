@@ -5,7 +5,9 @@ As an input we have:
 1. Time_slots = {t1,t2,t3,t4}
 2. Available_halls = {A,B,C}
 3. Intended_exams = {E1,E2,E3,E4,E5,E6,E7,E8,E9,E10}
-4. Conditions:   1. The 1st exam should take place before the third exam.
+4. Conditions:
+
+                 1. The 1st exam should take place before the third exam.
 
                  2. The 10th exam occurs after the 9th and 4th exams.
 
